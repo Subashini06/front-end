@@ -1,4 +1,4 @@
-# web-page<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
 
@@ -29,7 +29,7 @@ border-radius:100%;
 width="100"
 height="125">
 <h2 style="color:white">Suresh Raina</h2>
-<h5 style="color:white">raju gandhi street,sivan theater,Tirupur|
+<h5 style="color:white">raju gandhi street,sivan theater,Chennai|
 raina1223@gmail.com|
 9876544321 
 </h5>
